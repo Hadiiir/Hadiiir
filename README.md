@@ -4,7 +4,7 @@
 
 ### A passionate Full-Stack Developer from Egypt
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm00NmJxcnMyYm9ud3V2OGVzNWc3ZXdsOWtnZ3VuMGFmaHQzNWs2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HAdiiiir&label=Profile%20views&color=0e75b6&style=flat" alt="HAdiiiir" /> </p>
 
