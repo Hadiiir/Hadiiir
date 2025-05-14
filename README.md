@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HAdiiiir&label=Profile%20views&color=0e75b6&style=flat" alt="HAdiiiir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hadergamal" target="blank"><img src="https://img.shields.io/twitter/follow/hadergamal?logo=twitter&style=for-the-badge" alt="hadergamal" /></a> </p>
+<p align="left"> <a href="https://x.com/DoDoOGamal1?t=S2qbjK1XghkaQRXwjmGmWw&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/hadergamal?logo=twitter&style=for-the-badge" alt="hadergamal" /></a> </p>
 
 - 🔭 I'm currently working on **Collaborative Task Management App**
 - 🌱 I'm currently learning **Next.js, Node.js, and DevOps**
